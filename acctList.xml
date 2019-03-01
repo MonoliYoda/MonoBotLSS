@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- this fiile contains the account list for the bot to use,
+  put this in /Users/{user}/MonoBot/
+-->
+<list>
+  <!-- Monoli -->
+  <account>
+    <email>commanderpting@gmail.com</email>
+    <password>i8macbookpro</password>
+  </account>
+  <account>
+    <email>nullahfarm157@gmail.com</email>
+    <password>nullah206</password>
+  </account>
+  <account>
+    <email>commandertzimsha@gmail.com</email>
+    <password>i8macbookpro</password>
+  </account>
+  <account>
+    <email>s.hrancommander@gmail.com</email>
+    <password>i8macbookpro</password>
+  </account>
+  <account>
+    <email>qu.antumadder@gmail.com</email>
+    <password>i8macbookpro</password>
+  </account>
+  <account>
+    <email>sh.rancommander@gmail.com</email>
+    <password>i8macbookpro</password>
+  </account>
+  <account>
+    <email>shr.ancommander@gmail.com</email>
+    <password>i8macbookpro</password>
+  </account>
+  <account>
+    <!-- Pant -->
+  <email>rj-im301@outlook.com</email>
+  <password>RJ@shelter!</password>
+</account>
+<account>
+  <email>rj-im302@outlook.com</email>
+  <password>RJ@shelter!</password>
+</account>
+<account>
+<email>fl.appysacaow@gmail.com</email>
+  <password>flappysac</password>
+</account>
+<account>
+<email>f.lappysacaow@gmail.com</email>
+  <password>flappysac</password>
+</account>
+<account>
+<email>flappysacaow@gmail.com</email>
+  <password>flappysac</password>
+</account>
+<account>
+  <email>kmanderson.319@gmail.com</email>
+  <password>flappysac</password>
+</account>
+<account>
+<email>kmanders.on319@gmail.com</email>
+  <password>flappysac</password>
+</account>
+<account>
+<email>kmande.rson319@gmail.com</email>
+  <password>flappysac</password>
+</account>
+<account>
+<email>kmand.erson319@gmail.com</email>
+  <password>flappysac</password>
+</account>
+<account>
+<email>Pantera3@mailinator.com</email>
+  <password>flappysac</password>
+</account>
+<account>
+<email>Lust@mailinator.com</email>
+  <password>flappysac</password>
+</account>
+<account>
+<email>Greed@mailinator.com</email>
+  <password>flappysac</password>
+</account>
+</list>
