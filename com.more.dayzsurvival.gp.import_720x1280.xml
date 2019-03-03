@@ -1,105 +1,120 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Root>
-    <Scene height="1039" width="584" opacity="50" rotateAngle="0" id="com.more.dayzsurvival.gp" horizonFlag="0">
-        <Item type="1" pos="526,804" finger_count="1" height="42" width="60">
+    <Scene rotateAngle="0" horizonFlag="0" height="1039" width="584" id="com.more.dayzsurvival.gp" opacity="50">
+        <Item pos="526,804" height="42" finger_count="1" type="1" width="60">
             <Key value="72">
                 <Point>547,825</Point>
             </Key>
         </Item>
-        <Item type="1" pos="104,306" finger_count="1" height="42" width="60">
+        <Item pos="104,306" height="42" finger_count="1" type="1" width="60">
             <Key value="81">
                 <Point>125,327</Point>
             </Key>
         </Item>
-        <Item type="1" pos="32,266" finger_count="1" height="42" width="60">
+        <Item pos="32,266" height="42" finger_count="1" type="1" width="60">
             <Key value="83">
                 <Point>53,287</Point>
             </Key>
         </Item>
-        <Item type="1" pos="114,830" finger_count="1" height="42" width="60">
+        <Item pos="114,830" height="42" finger_count="1" type="1" width="60">
             <Key value="90">
                 <Point>135,851</Point>
             </Key>
         </Item>
-        <Item type="1" pos="218,828" finger_count="1" height="42" width="60">
+        <Item pos="218,828" height="42" finger_count="1" type="1" width="60">
             <Key value="88">
                 <Point>239,849</Point>
             </Key>
         </Item>
-        <Item type="1" pos="271,676" finger_count="1" height="42" width="60">
+        <Item pos="271,676" height="42" finger_count="1" type="1" width="60">
             <Key value="85">
                 <Point>292,697</Point>
             </Key>
         </Item>
-        <Item type="1" pos="512,279" finger_count="1" height="42" width="60">
+        <Item pos="512,279" height="42" finger_count="1" type="1" width="60">
             <Key value="67">
                 <Point>533,300</Point>
             </Key>
         </Item>
-        <Item type="1" pos="524,725" finger_count="1" height="42" width="60">
+        <Item pos="524,725" height="42" finger_count="1" type="1" width="60">
             <Key value="77">
                 <Point>545,746</Point>
             </Key>
         </Item>
-        <Item type="1" pos="266,766" finger_count="1" height="42" width="60">
+        <Item pos="266,766" height="42" finger_count="1" type="1" width="60">
             <Key value="68">
                 <Point>287,787</Point>
             </Key>
         </Item>
-        <Item type="1" pos="522,453" finger_count="1" height="42" width="60">
+        <Item pos="522,453" height="42" finger_count="1" type="1" width="60">
             <Key value="46">
                 <Point>543,474</Point>
             </Key>
         </Item>
-        <Item type="1" pos="200,269" finger_count="1" height="42" width="60">
+        <Item pos="200,269" height="42" finger_count="1" type="1" width="60">
             <Key value="65">
                 <Point>221,290</Point>
             </Key>
         </Item>
-        <Item type="1" pos="275,726" finger_count="1" height="42" width="60">
+        <Item pos="275,726" height="42" finger_count="1" type="1" width="60">
             <Key value="71">
                 <Point>296,747</Point>
             </Key>
         </Item>
-        <Item type="1" pos="275,224" finger_count="1" height="42" width="60">
+        <Item pos="275,224" height="42" finger_count="1" type="1" width="60">
             <Key value="49">
                 <Point>296,245</Point>
             </Key>
         </Item>
-        <Item type="1" pos="269,604" finger_count="1" height="42" width="60">
+        <Item pos="269,604" height="42" finger_count="1" type="1" width="60">
             <Key value="70">
                 <Point>290,625</Point>
             </Key>
         </Item>
-        <Item type="1" pos="543,18" finger_count="1" height="42" width="60">
+        <Item pos="543,18" height="42" finger_count="1" type="1" width="60">
             <Key value="93">
                 <Point>564,39</Point>
             </Key>
         </Item>
-        <Item type="1" pos="268,959" finger_count="1" height="42" width="60">
+        <Item pos="268,959" height="42" finger_count="1" type="1" width="60">
             <Key value="61">
                 <Point>289,980</Point>
             </Key>
         </Item>
-        <Item type="1" pos="83,400" finger_count="1" height="42" width="60">
+        <Item pos="83,400" height="42" finger_count="1" type="1" width="60">
             <Key value="69">
                 <Point>104,421</Point>
             </Key>
         </Item>
-        <Item type="1" pos="80,483" finger_count="1" height="42" width="60">
+        <Item pos="80,483" height="42" finger_count="1" type="1" width="60">
             <Key value="82">
                 <Point>101,505</Point>
                 <Point>101,504</Point>
             </Key>
         </Item>
-        <Item type="1" pos="142,937" finger_count="1" height="42" width="60">
+        <Item pos="142,937" height="42" finger_count="1" type="1" width="60">
             <Key value="91">
                 <Point>163,958</Point>
             </Key>
         </Item>
-        <Item type="1" pos="526,231" finger_count="1" height="42" width="60">
+        <Item pos="526,231" height="42" finger_count="1" type="1" width="60">
             <Key value="84">
                 <Point>547,252</Point>
+            </Key>
+        </Item>
+        <Item pos="520,355" height="42" finger_count="1" type="1" width="60">
+            <Key value="89">
+                <Point>541,376</Point>
+            </Key>
+        </Item>
+        <Item pos="524,522" height="42" finger_count="1" type="1" width="60">
+            <Key value="80">
+                <Point>545,543</Point>
+            </Key>
+        </Item>
+        <Item pos="20,39" height="42" finger_count="1" type="1" width="60">
+            <Key value="48">
+                <Point>41,60</Point>
             </Key>
         </Item>
     </Scene>
